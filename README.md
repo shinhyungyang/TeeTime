@@ -7,6 +7,8 @@ This project contains the Java reference implementation of the Pipe-and-Filter f
 
 Informations on how to use it can be found on http://teetime-framework.github.io.
 
+Hi
+
 ## Getting Started
 
 - [Wiki](https://teetime-framework.github.io/wiki/home.html)
